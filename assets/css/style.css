@@ -6932,7 +6932,7 @@ button {
       flex-wrap: wrap;
 }
 .footer-widget-nav ul {
-  width: 50%;
+  width: 100%;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .footer-widget-nav ul {
